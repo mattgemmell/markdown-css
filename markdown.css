@@ -137,12 +137,12 @@
 }
 .markdown strong:before,
 .markdown strong:after {
-  content: "__";
+  content: "**";
   display: inline;
 }
 .markdown em:before,
 .markdown em:after {
-  content: "*";
+  content: "_";
   display: inline;
 }
 .markdown a {
